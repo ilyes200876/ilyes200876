@@ -1,16 +1,16 @@
-### Hi there 👋
+### Bonjour👋
 
-<!--
-**ilyes200876/ilyes200876** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Ilyes ATTIA
 
-Here are some ideas to get you started:
+Je suis en formation développeur web et web mobile. J'ai gagné en compétences dans les technologies suivantes:
+- 🌱 Front-end:
+  HTML, CSS/BOOTSTRAP, SASS, JavaScript, TypeScript, WordPress
+- 🌱 Back-end:
+  MySQL, BDD, PHP, Symfony, WordPress(création de plugins et de thèmes), Angular
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤔 Je suis à la recherche d'un stage qui se déroulera du 05/10/2023 au 04/12/2023.
+- 📫Vous pouvez me contacter sur mon adresse mail : ilyes200876@live.fr
+- ⚡Mes centres d'intérêts :
+  J'aime la gastronomie : j'aime créer des plats et mélanger différents éléments afin de partager avec la famille et les amis.
+  J'aime aussi l'astronomie : Je suis intéressé par l'espace, les étoiles et les éxoplanettes ... ce domaine et l'un des domaines qui permettent d'attiser ma curiosité.
+
