@@ -1,6 +1,6 @@
-### Bonjour👋
-
 # Ilyes ATTIA
+
+### Bonjour👋
 
 Je suis en formation développeur web et web mobile chez Human Booster. J'ai gagné en compétences dans les technologies suivantes:
 - 🌱 **Front-end :** <br>
