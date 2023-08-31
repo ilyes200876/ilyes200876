@@ -11,6 +11,6 @@ Je suis en formation développeur web et web mobile chez Human Booster. J'ai gag
 🤔 Je suis à la recherche d'un stage qui se déroulera du 05/10/2023 au 04/12/2023.
 - 📫 Vous pouvez me contacter sur mon adresse mail : ilyes200876@live.fr
 - ⚡ Mes centres d'intérêts :<br>
-  🍽 J'aime la gastronomie : j'aime créer des plats et mélanger différents éléments afin de partager avec la famille et les amis.<br>
-  ✨ J'aime aussi l'astronomie : Je suis intéressé par l'espace, les étoiles et les éxoplanettes ... ce domaine et l'un des domaines qui permettent d'attiser ma curiosité.
+  🍽 La gastronomie : j'aime créer des plats et mélanger différents éléments afin de partager avec la famille et les amis.<br>
+  ✨ L'astronomie : Je suis intéressé par l'espace, les étoiles et les éxoplanettes ... ce domaine et l'un des domaines qui permettent d'attiser ma curiosité.
 
