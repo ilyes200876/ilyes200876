@@ -6,7 +6,7 @@ Je suis en formation développeur web et web mobile. J'ai gagné en compétences
 - 🌱 **Front-end :** <br>
       HTML, CSS/BOOTSTRAP, SASS, JavaScript, TypeScript, WordPress (création de plugins et de thèmes), Angular
 - 🌱 **Back-end:** <br>
-      SQL, PHP, Symfony
+      MySQL,MariaDB,phpMyAdmin PHP, Symfony
 
 🤔 Je suis à la recherche d'un stage qui se déroulera du 05/10/2023 au 04/12/2023.
 - 📫 Vous pouvez me contacter sur mon adresse mail : ilyes200876@live.fr
