@@ -3,7 +3,7 @@
 # Ilyes ATTIA
 
 Je suis en formation développeur web et web mobile. J'ai gagné en compétences dans les technologies suivantes:
-- 🌱 Front-end:
+- 🌱 *Front-end :*
   HTML, CSS/BOOTSTRAP, SASS, JavaScript, TypeScript, WordPress (création de plugins et de thèmes), Angular
 - 🌱 Back-end:
   SQL, PHP, Symfony
