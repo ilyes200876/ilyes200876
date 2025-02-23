@@ -4,7 +4,7 @@
 
 ## Porjet Carambar :
 ### Lien vers swagger :
-http://localhost:3000/api-docs/#/
+http://localhost:3000/api-docs/
 ### Lien ver mon répo carambar back-end :
 https://github.com/ilyes200876/CarambarCoBackEnd
 
@@ -15,7 +15,7 @@ Je suis développeur web et web mobile. J'ai gagné en compétences dans les tec
 - 🌱 **Back-end:** <br>
       MySQL, MariaDB, phpMyAdmin,SQLite,SWAGGER, PHP, Symfony, NodeJS.
 
-🤔 Je suis à la recherche d'une alernace qui se déroulera du 13/11/2025 et d'une durée de 18 mois chez Simplon.
+🤔 Je suis à la recherche d'une alternance qui se déroulera du 13/11/2025 et d'une durée de 18 mois chez Simplon.
 - 📫 Vous pouvez me contacter sur mon adresse mail : ilyes200876@live.fr
 - ⚡ Mes centres d'intérêts :<br>
   🍽 La gastronomie : j'aime créer des plats et mélanger différents éléments afin de partager avec la famille et les amis.<br>
